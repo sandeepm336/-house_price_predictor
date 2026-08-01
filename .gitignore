@@ -1,0 +1,15 @@
+# Generated at runtime by src/train.py and src/predict.py — don't commit
+data/train.csv
+data/test.csv
+data/predictions.csv
+models/model.pkl
+models/pipeline.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
